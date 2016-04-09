@@ -1,0 +1,19 @@
+        /*设置背景和主要的头部分*/
+
+* {margin: 0;padding: 0}
+        
+        /*设置背景*/
+.bj {background: url("../image/bj.jpg");}
+
+#header{margin:0 auto;height: 90px;width: 950px;position: relative;}
+* a{text-decoration-style: none;}
+* li{list-style: none;}
+
+#header .p1{font:italic bold 60px "微软雅黑";line-height: 90px;padding: 0 50px;color:#FB7D78;width:162px}
+
+#header input{position: absolute;border: 1px solid #3ADAE2;top: 33px;left: 557px;width: 170px;height: 30px;border-radius: 30px;
+              padding-left: 30px;}
+#header span{position: absolute;top: 41px;right: 366px;}
+#header .right li{padding-left:21px;float: right;}
+#header .right ul{position: absolute;top: 38px;right: 30px;}
+#header .right li div{height: 20px;width: 1px;background-color: black;}
